@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e569b54c059b6a43a82eb43d509c3ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoDisparo: {fileID: 8300000, guid: a9a6cd4bfe1a27d44bb0a102073dbd66, type: 3}
+  - proyectilPrefab: {fileID: 1904294231625856793, guid: 2f2df9d17a97a7648b26737535facfbd, type: 3}
+  - puntoDeDisparo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
